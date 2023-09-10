@@ -1,7 +1,7 @@
 name: samuelswidgets
 description: A package to store @ndesamuelmbah's custom widgets. You may use it but it is subject to Samuel's changes at any time without warning.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ndesamuelmbah/samuelswidgets
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
